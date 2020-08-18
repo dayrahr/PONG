@@ -2,6 +2,8 @@
 """
 First Game with pygame (Pong)
 @author: Dayra
+
+with each player's score
 """
 import pygame,random,sys
 pygame.init()
